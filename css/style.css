@@ -40,7 +40,8 @@ nav h2{
     font-family: 'Playfair Display', serif;
     margin-left: auto;
     font-style: italic;
-    font-size: 25px;
+    font-size: 22px;
+    color: #1c1b51;
 }
 .custom_nav {
     position: sticky;
