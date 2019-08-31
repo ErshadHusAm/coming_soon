@@ -40,7 +40,8 @@ nav h2{
     font-family: 'Playfair Display', serif;
     margin-left: auto;
     font-style: italic;
-    font-size: 22px;
+    font-size: 24px;
+    text-aligh: center;
     color: #1c1b51;
 }
 .custom_nav {
