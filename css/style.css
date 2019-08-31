@@ -39,6 +39,7 @@ header {
 nav h2{
     font-family: 'Playfair Display', serif;
     margin-left: auto;
+    margin-top: 15px;
     font-style: italic;
     font-size: 24px;
     text-aligh: center;
